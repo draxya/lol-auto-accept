@@ -9,3 +9,5 @@ This application is optimized for 1080p resolution. If you are using another res
 - numpy
 - opencv-python
 - pyautogui
+- tkinter
+- keyboard
