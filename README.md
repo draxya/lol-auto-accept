@@ -1,6 +1,10 @@
 # lol-auto-accept
 An application for LoL players to auto accept the match when a new one is found.
 
+**Shortcuts:**
+- F6: Start Detection
+- F7: Stop Detection
+
 ## How does it work?
 The program takes a screenshot of a LoL new match notification as base target image, and repeadetly looks for that image in screen and if finds, clicks to a certain area where "Accept Match" button is supposed to be.
 
