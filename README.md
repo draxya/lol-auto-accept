@@ -17,7 +17,7 @@ Bu program, League of Legends oyununda eşleşme bulunduğunda otomatik olarak k
 
 ### Hazır Kurulum (Önerilen)
 
-1. [Buradan](https://github.com/draxya/berightback/releases/latest/download/BeRightBack.exe) en son sürümü indirin
+1. [Buradan](https://github.com/draxya/BeRightBack/releases/download/v1.1.0/BeRightBack.exe) en son sürümü indirin
 2. İndirilen EXE dosyasını çalıştırın
 3. Oyun dilini seçin ve başlat butonuna tıklayın
 
