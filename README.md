@@ -24,8 +24,9 @@ Bu program, League of Legends oyununda eşleşme bulunduğunda otomatik olarak k
 ### Manuel Kurulum (Geliştiriciler İçin)
 
 1. Repo'yu klonlayın: `git clone https://github.com/kullanici-adi/repo-adi.git`
-2. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
-3. `main.py` dosyasını çalıştırın: `python main.py`
+2. Uygun Python sürümünü indirin: Python 3.9.x
+3. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
+4. `main.py` dosyasını çalıştırın: `python main.py`
 
 ## Kullanım
 
